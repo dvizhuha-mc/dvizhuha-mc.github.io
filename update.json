@@ -1,31 +1,16 @@
 {
-  "version": "1.4.2",
-  "url": "https://github.com/dvizhuha-mc/dvizhuha-mc.github.io/releases/download/v1.4.2/Dvizhuha-Launcher-Setup.exe",
-  "size": 206891149,
-  "sha256": "2115d5dcedf1784f589ab2c35b36fa150d168ec18c735976ebcb7d2ada0ba702",
-  "notes": "Новый адрес сервера: 45.157.232.7:32331. Лаунчер сам перенесёт настройки и сборку, моды заново качать не придётся.",
-  "signature": "scoR95tOUfB71iCGr4oRgPtbXkCqsdQ6zlQAuipd9czrRE0XGefiewojdCkIwr0ae/CGNtChpNDE2CXvIWJEDg==",
+  "version": "1.4.3",
+  "url": "https://github.com/dvizhuha-mc/dvizhuha-mc.github.io/releases/download/v1.4.3/Dvizhuha-Launcher-Setup.exe",
+  "size": 206891844,
+  "sha256": "00e720ad5876b871dfd01dee9f27bb4586e4c891fe86151f809bdcafeecc31c2",
+  "notes": "Надёжнее показывает онлайн при плохом соединении: «не отвечает» только после нескольких неудач подряд, запасной путь через сайт, повтор запросов к серверу.",
+  "signature": "R2H9UYEAmvbE21zpNjRo8qwlgKtQDNS3SxjowGQBob/oAy+E4uCQvRz7p7nTmqIxT57sW/OUkTsPA99ieEtTDA==",
   "assets": {
     "win-x64": {
-      "url": "https://github.com/dvizhuha-mc/dvizhuha-mc.github.io/releases/download/v1.4.2/Dvizhuha-Launcher-Setup.exe",
-      "size": 206891149,
-      "sha256": "2115d5dcedf1784f589ab2c35b36fa150d168ec18c735976ebcb7d2ada0ba702"
-    },
-    "linux-x64": {
-      "url": "https://github.com/dvizhuha-mc/dvizhuha-mc.github.io/releases/download/v1.4.2/Dvizhuha-Launcher-x86_64.AppImage",
-      "size": 221624184,
-      "sha256": "a08c4e130beedcbe5084bc97db28720d31171e088988bf49bbda036ef6e80dd9"
-    },
-    "mac-arm64": {
-      "url": "https://github.com/dvizhuha-mc/dvizhuha-mc.github.io/releases/download/v1.4.2/Dvizhuha-Launcher-mac-arm64.zip",
-      "size": 224321724,
-      "sha256": "ee1362db76406c85d1811a22d3a79f82c3fb4c6e8a6ac00fe7715ff0d553be28"
-    },
-    "mac-x64": {
-      "url": "https://github.com/dvizhuha-mc/dvizhuha-mc.github.io/releases/download/v1.4.2/Dvizhuha-Launcher-mac-x64.zip",
-      "size": 229945590,
-      "sha256": "c58c4c381b379fe616da134e2874d8b1626aa07375431b98e0889e86e9b1643a"
+      "url": "https://github.com/dvizhuha-mc/dvizhuha-mc.github.io/releases/download/v1.4.3/Dvizhuha-Launcher-Setup.exe",
+      "size": 206891844,
+      "sha256": "00e720ad5876b871dfd01dee9f27bb4586e4c891fe86151f809bdcafeecc31c2"
     }
   },
-  "assetsSignature": "spcEFkcloxIjTfk4RjwJ4L29HOizwbA7O/SBR6UOEMn19WuwzAAqZHjSJVFnc8j1Sptg9MlU695JZhgtZCbEBQ=="
+  "assetsSignature": "DskdC+g5j8RnKA8Zw2l0L2zEYxDGvqKw4+YK1GWe08nrL+JuIJm6WAJAr1uFtMKgZullergkA9jB1ctYEickAA=="
 }

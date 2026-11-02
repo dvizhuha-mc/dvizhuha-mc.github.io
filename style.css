@@ -298,3 +298,12 @@ footer { max-width: 1120px; margin: 0 auto; padding: 22px 40px 34px; display: fl
   .flap.turn { animation: none; }
   .stub, .toast { transition: none; }
 }
+
+/* Без лаунчера: пакет модов и AutoModPack */
+.nolauncher { margin-top: 18px; max-width: 560px; color: var(--paper); font-size: 15px; }
+.nolauncher > summary { cursor: pointer; color: var(--brass); text-underline-offset: 3px; text-decoration: underline; }
+.nolauncher[open] > summary { margin-bottom: 10px; }
+.nolauncher p { margin: 8px 0; color: var(--mute); }
+.nolauncher ol { margin: 8px 0 12px 20px; padding: 0; line-height: 1.5; }
+.nolauncher .os-btn { display: inline-block; margin: 4px 0 8px; }
+.nolauncher .hash { word-break: break-all; font-size: 12px; }
