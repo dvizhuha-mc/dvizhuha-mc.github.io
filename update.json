@@ -1,16 +1,16 @@
 {
-  "version": "1.5.0",
-  "url": "https://github.com/dvizhuha-mc/dvizhuha-mc.github.io/releases/download/v1.5.0/Dvizhuha-Launcher-Setup.exe",
-  "size": 206898459,
-  "sha256": "fffc99f2c078e37e882124920493af9aa4ad09368592ca45d9b0c6f4d1fad0ca",
-  "notes": "Прямое соединение с друзьями: заходи в мир друга без e4mc — лаунчеры соединяются напрямую. Надёжнее показывает онлайн при плохом соединении.",
-  "signature": "98gXtZGCXGcnTNCoz/Llrg0RIsEpSwxFb8KEmKcG2WcIgk1kUvgk+WfICBjJszXKd0o8CXzfgUyOMsoJ4CbKAw==",
+  "version": "1.5.1",
+  "url": "https://github.com/dvizhuha-mc/dvizhuha-mc.github.io/releases/download/v1.5.1/Dvizhuha-Launcher-Setup.exe",
+  "size": 206900804,
+  "sha256": "0bde3941c5fff7b473fb5512574a1ea78c3e6f41698667c6b9e43572e1f1e67a",
+  "notes": "Игра уже запущена? Мир друга появляется в списке «Сетевая игра» — заходи из игры. Прямое соединение с друзьями без e4mc. Проверка обновлений повторяется при сбое.",
+  "signature": "GEFmU+ZtmgwBTXzzt/N2XUV9hfYMAMeVUO5LB5npwYzIeznI+RzwvsGim+yl3eRIbfC2EYpuEB0vRkTFnRqcDQ==",
   "assets": {
     "win-x64": {
-      "url": "https://github.com/dvizhuha-mc/dvizhuha-mc.github.io/releases/download/v1.5.0/Dvizhuha-Launcher-Setup.exe",
-      "size": 206898459,
-      "sha256": "fffc99f2c078e37e882124920493af9aa4ad09368592ca45d9b0c6f4d1fad0ca"
+      "url": "https://github.com/dvizhuha-mc/dvizhuha-mc.github.io/releases/download/v1.5.1/Dvizhuha-Launcher-Setup.exe",
+      "size": 206900804,
+      "sha256": "0bde3941c5fff7b473fb5512574a1ea78c3e6f41698667c6b9e43572e1f1e67a"
     }
   },
-  "assetsSignature": "g6/nBA1UG4/8nVOGHuMxhcu/ah4r2tSNJCATLue3QL+sueqM2DLTjz7Qe55gsAMH2E7YM5WvAOHVruNQB55pAA=="
+  "assetsSignature": "qh1xczjhYQz2FKIX5ophe49ZHdRfI+CTzLr+7m6xu7sLawW063z7obK7smwguU7cdzXiEJ2S9HbFo5ul51WaDQ=="
 }
